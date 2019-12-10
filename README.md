@@ -136,3 +136,10 @@ apt-get install ssl-cert
 ```
 chmod user:group ~ #  更改～目录的权限为自己而不是root，因为home 需要755的权限，root无权写入
 ```
+## [安装colorls 美化ls](https://javascript.ctolib.com/athityakumar-colorls.html)
+
+- sudo apt-get update
+
+- sudo apt-get install ruby
+
+- gem install colorls
