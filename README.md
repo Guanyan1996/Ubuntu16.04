@@ -145,3 +145,5 @@ chmod user:group ~ #  更改～目录的权限为自己而不是root，因为hom
 - apt-get install ruby-dev
 
 - gem install colorls
+
+## [python3 安装](https://blog.csdn.net/weixin_34203426/article/details/93888572)
