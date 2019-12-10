@@ -12,6 +12,14 @@
 
 - sudo userdel -r name 删除客户
 
+## 免密登陆
+
+- ssh-keygen 生成密钥
+
+- ssh-copy-id -i .ssh/id_rsa.pub target_server
+
+
+
 ## 安装htop
 
 - sudo apt-get update
