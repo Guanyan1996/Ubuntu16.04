@@ -130,3 +130,9 @@ apt-get install ca-certificates -y
 或者是
 apt-get install ssl-cert
 ```
+
+> zsh_history会与免密登陆产生冲突
+
+```
+chmod user:group ~ #  更改～目录的权限为自己而不是root，因为home 需要755的权限，root无权写入
+```
