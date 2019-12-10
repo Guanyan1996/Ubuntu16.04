@@ -142,4 +142,6 @@ chmod user:group ~ #  更改～目录的权限为自己而不是root，因为hom
 
 - sudo apt-get install ruby
 
+- apt-get install ruby-dev
+
 - gem install colorls
