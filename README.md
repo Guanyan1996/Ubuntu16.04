@@ -147,3 +147,5 @@ chmod user:group ~ #  更改～目录的权限为自己而不是root，因为hom
 - gem install colorls
 
 ## [python3 安装](https://blog.csdn.net/weixin_34203426/article/details/93888572)
+
+## [npm 安装](https://www.cnblogs.com/xingyunfashi/p/9272041.html)
