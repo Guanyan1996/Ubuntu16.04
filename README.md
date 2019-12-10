@@ -18,6 +18,26 @@
 
 - ssh-copy-id -i .ssh/id_rsa.pub target_server
 
+## 设置别名
+
+- 在~/.ssh目录下创建并编辑config文件
+
+　　vim config(centos)
+
+　　vim config(ubuntu)
+
+- config文件内容
+
+```
+
+Host   主机名
+
+    HostName   ip地址
+
+    User   用户名
+
+Port   端口号
+```
 
 
 ## 安装htop
